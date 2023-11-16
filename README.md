@@ -13,19 +13,33 @@ A four-day project to build a web application in a team. The goal of the project
 
 # 💻 Tech Stack
 Python: The primary programming language for building the web application.  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 Pytest: A testing framework for writing and running unit tests to ensure the reliability of your code.  
 
 Flask: A micro web framework for Python that will be used to build the web application.  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 
 PostgreSQL: A powerful open-source relational database management system used to store and retrieve data for your application.  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 # 🏃 Agile Sprints and Ceremonies
 
 We followed an agile development approach with short sprints of two days each. We rotated out team lead each day to ensure that everyone got a chance to lead either a daily stand-up (to discuss progress and address any blockers) or an end-of-sprint retrospective (to reflect on our teamwork and identify areas for improvement).
 
-# Minimum Viable Product (MVP)
+# ⭐ Minimum Viable Product (MVP)
 We achieved our goal to reach the Minimum Viable Product (MVP) stage by the end of the first sprint. The MVP represented the basic application functionality and allowed for iterative development. We prioritised user stories that contributed to the core functionality and used a disciplined, Test-Driven Development approach to maintain focus on our MVP scope.
+
+# 📋 Project Specification
+The project aims to create a web application that allows users to list available spaces and book them for the night. The headline specifications include:  
+
+🏠 Any signed-up user can list a new space.  
+🏘️ Users can list multiple spaces.  
+💷 Users can provide a name, description, and price per night for their space.  
+📅 Users can specify available dates for their space.  
+✅ Users can request to hire a space for one night, and the request should be approved by the space owner.  
+🚫 Nights for which a space is booked should not be available for booking.  
+🚫 Unconfirmed booking requests should not prevent others from booking the space.  
 
 # MakersBnB Python Project Seed
 
