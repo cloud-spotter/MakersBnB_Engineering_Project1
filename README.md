@@ -25,7 +25,7 @@ PostgreSQL: A powerful open-source relational database management system used to
 
 # 🏃 Agile Sprints and Ceremonies
 
-We followed an agile development approach with short sprints of two days each. We rotated out team lead each day to ensure that everyone got a chance to lead either a daily stand-up (to discuss progress and address any blockers) or an end-of-sprint retrospective (to reflect on our teamwork and identify areas for improvement).
+We followed an agile development approach with short sprints of two days each. We rotated our team lead each day to ensure that everyone got a chance to lead either a daily stand-up (to discuss progress and address any blockers) or an end-of-sprint retrospective (to reflect on our teamwork and identify areas for improvement).
 
 # ⭐ Minimum Viable Product (MVP)
 We achieved our goal to reach the Minimum Viable Product (MVP) stage by the end of the first sprint. The MVP represented the basic application functionality and allowed for iterative development. We prioritised user stories that contributed to the core functionality and used a disciplined, Test-Driven Development approach to maintain focus on our MVP scope.
