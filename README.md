@@ -21,7 +21,7 @@ Flask: A micro web framework for Python that will be used to build the web appli
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 
 PostgreSQL: A powerful open-source relational database management system used to store and retrieve data for your application.  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## 🏃 Agile Sprints and Ceremonies
 
