@@ -12,9 +12,6 @@ A four-day project to build a web application in a team. The goal of the project
 **Developer Workflow:** Follow a developer workflow to plan, implement, and peer-review features, ensuring that our code meets quality standards.  
 
 ## 💻 Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" valign="middle"/> The primary programming language for building the web application
-</p>
 <p align="left" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" valign="middle"/> The primary programming language for building the web application
 </p>
@@ -29,14 +26,6 @@ A four-day project to build a web application in a team. The goal of the project
 <p align="left" style="margin-bottom: 10px;">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" valign="middle"/> An open-source relational database management system used to store and retrieve data for the application
 </p>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) The primary programming language for building the web application
-
-Pytest: A testing framework for writing and running unit tests to ensure the reliability of the code  
-  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) A micro web framework for Python, used to build the web application  
- 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) An open-source relational database management system used to store and retrieve data for the application 
 
 ## 🏃 Agile Sprints and Ceremonies
 
